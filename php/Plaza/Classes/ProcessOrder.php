@@ -108,7 +108,7 @@
 			}
 			
 			$xml .= '</ProcessOrders>';
-die($xml);
+
 			return $xml;
 		}
 	}
